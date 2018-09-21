@@ -1,0 +1,16 @@
+.vs/
+Build/
+Temp/
+Library/
+obj/
+Packages/
+ProjectSettings/
+
+Assets/Plugins
+Assets/Resources
+Assets/Scenes
+Assets/Sprites
+Assets/StreamingAssets
+
+*.meta
+*.asmdef

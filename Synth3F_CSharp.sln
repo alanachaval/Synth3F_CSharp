@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synth3F_CSharp", "Synth3F_CSharp.csproj", "{B986DB45-5B36-7E74-9F5F-E28DB8EB2804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synth3F_CSharp", "Tests.csproj", "{4B28DB9E-030A-3254-2E93-911CF1635F4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B986DB45-5B36-7E74-9F5F-E28DB8EB2804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B986DB45-5B36-7E74-9F5F-E28DB8EB2804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B986DB45-5B36-7E74-9F5F-E28DB8EB2804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B986DB45-5B36-7E74-9F5F-E28DB8EB2804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B28DB9E-030A-3254-2E93-911CF1635F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B28DB9E-030A-3254-2E93-911CF1635F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B28DB9E-030A-3254-2E93-911CF1635F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B28DB9E-030A-3254-2E93-911CF1635F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
